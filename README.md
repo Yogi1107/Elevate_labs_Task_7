@@ -27,17 +27,17 @@ This project shows how to connect to a SQLite database using Python, execute sim
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 sales_summary/
-├── - sales_data.db # SQLite database file
-├── - sales_summary.py # Python script to generate report
-├── - sales_chart.png # Output chart image (auto-generated)
-└── - README.md # Project documentation
+- sales_data.db # SQLite database file
+- sales_summary.py # Python script to generate report
+- sales_chart.png # Output chart image (auto-generated)
+- README.md # Project documentation
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
