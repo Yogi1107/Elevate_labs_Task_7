@@ -49,11 +49,6 @@ cd sales-summary-sqlite
 pip install pandas matplotlib
 ```
 
-3. Run the script (in Jupyter Notebook)
-```bash
-python task_7.ipynb
-```
-
 The script will:
   - Create sales_data.db (if not already present)
   - Insert sample sales data
